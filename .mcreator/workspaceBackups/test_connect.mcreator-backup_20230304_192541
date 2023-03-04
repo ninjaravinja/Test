@@ -1,0 +1,42 @@
+{
+  "mod_elements": [
+    {
+      "name": "Test",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.test.title": "Test",
+      "advancements.test.descr": "This is a test achievement"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "test_connect",
+    "modName": "Test Connect",
+    "version": "1.0.0",
+    "author": "ninja, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.testconnect",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

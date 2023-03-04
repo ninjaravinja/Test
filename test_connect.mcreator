@@ -1,9 +1,21 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Test",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "advancements.test.title": "Test",
+      "advancements.test.descr": "This is a test achievement"
+    }
   },
   "foldersRoot": {
     "name": "~",
